@@ -35,7 +35,7 @@ nav{
 
     position: fixed;
     top: 0;
-    z-index: 2;
+    z-index: 20;
 
     background-color: rgba(0, 0, 0, 0.7);
 
@@ -101,19 +101,19 @@ nav .btn :hover{
 
 #tv-show-1{
     margin-left: 10vw;
-    background-image: url(/Apple-Clone/images/apple-tv-after-party.jpg);
+    background-image: url(./images/apple-tv-after-party.jpg);
 }
 #tv-show-2{
-    background-image: url(/Apple-Clone/images/apple-tv-hyjack.jpg);
+    background-image: url(./images/apple-tv-hyjack.jpg);
 }
 #tv-show-3{
-    background-image: url(/Apple-Clone/images/apple-tv-morning-show.jpg);
+    background-image: url(./images/apple-tv-morning-show.jpg);
 }
 #tv-show-4{
-    background-image: url(/Apple-Clone/images/apple-tv-ted-lasso.jpg);
+    background-image: url(./images/apple-tv-ted-lasso.jpg);
 }
 #tv-show-5{
-    background-image: url(/Apple-Clone/images/apple-tv-physical.jpg);
+    background-image: url(./images/apple-tv-physical.jpg);
     margin-right: 10vw;
 }
 
@@ -157,32 +157,32 @@ nav .btn :hover{
 }
 
 #iphone-fourteen-pro{
-    background-image: url(/Apple-Clone/images/iphoneproSMALL.jpg);
+    background-image: url(./images/iphoneproSMALL.jpg);
 }
 
 #iphone-fourteen{
-    background-image: url(/Apple-Clone/images/iphoneBIGSMALL.jpg);
+    background-image: url(./images/iphoneBIGSMALL.jpg);
 }
 #save-for-college{
-    background-image: url(/Apple-Clone/images/saveForCollege.jpg);
+    background-image: url(./images/saveForCollege.jpg);
 }
 #macbook-air{
-    background-image: url(/Apple-Clone/images/macbookAir.jpg);
+    background-image: url(./images/macbookAir.jpg);
 }
 #apple-watch{
-    background-image: url(/Apple-Clone/images/appleWatch.jpg);
+    background-image: url(./images/appleWatch.jpg);
 }
 #vision-pro{
-    background-image: url(/Apple-Clone/images/visionPro.jpg);
+    background-image: url(./images/visionPro.jpg);
 }
 #trade-in{
-    background-image: url(/Apple-Clone/images/tradeIn.jpg);
+    background-image: url(./images/tradeIn.jpg);
 }
 #apple-arcade{
-    background-image: url(/Apple-Clone/images/appleArcade.jpg);
+    background-image: url(./images/appleArcade.jpg);
 }
 #apple-card{
-    background-image: url(/Apple-Clone/images/appleCard.jpg);
+    background-image: url(./images/appleCard.jpg);
 }
 
 #vision-pro{
@@ -342,10 +342,6 @@ hr{
         height: 80vh;
     }
 
-   /*  #iphone-fourteen-pro{
-        background-image: url(/Apple-Clone/images/iphoneproBIG.jpg);
-    } */
-
     .text{
         font-size: 1.5rem;
     }
@@ -397,10 +393,6 @@ hr{
         width: 1.1rem;
     }
 
-    /* #iphone-fourteen-pro{
-        background-image: url(/Apple-Clone/images/iphoneproBIG.jpg);
-    } */
-
     .text{
         font-size: 1.5rem;
     }
@@ -414,7 +406,7 @@ hr{
 
 @media screen and (min-width: 992px) {
     #iphone-fourteen-pro{
-        background-image: url(/Apple-Clone/images/iphoneproBIG.jpg);
+        background-image: url(./images/iphoneproBIG.jpg);
     }
 
     
